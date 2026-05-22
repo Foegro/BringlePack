@@ -14,3 +14,5 @@ How to install:
 1. Install [Steamodded](https://github.com/Steamodded/smods)
 (Guide for installing Steamodded: https://github.com/Steamodded/smods/wiki)
 2. Put this mod into the Mods folder, like you did with Steamodded
+
+To select the cards, on the titlescreen go to OPTIONS - Customize Deck and then select the Bringle one for **each of the suits**
